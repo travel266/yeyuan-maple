@@ -1,0 +1,915 @@
+{
+  "colors": [
+    "#FBE8F3",
+    "#F8E2D5",
+    "#5FB2C9",
+    "#F49093",
+    "#FFBDBD",
+    "#B8A3E1",
+    "#E7BBA9",
+    "#CDDD92",
+    "#F2D0B0",
+    "#FBF8B1",
+    "#FDE5DA",
+    "#CDCBEC",
+    "#C8E2FE",
+    "#FFD6F0",
+    "#F7A09C",
+    "#8BC7DA",
+    "#5F9BED",
+    "#ADD086",
+    "#FFEDF3",
+    "#FDA8C5",
+    "#AACF31",
+    "#FB8AB2",
+    "#FED4A9",
+    "#9378BD",
+    "#7CB6DE",
+    "#C2E5CF",
+    "#EDDDAB",
+    "#A4DDD3",
+    "#A6D0E6",
+    "#EC3E31",
+    "#FBEA2E",
+    "#8582BD",
+    "#A8D3A0",
+    "#F6D8E6",
+    "#EAB56E",
+    "#8FAADC",
+    "#FFE699",
+    "#98C4F9",
+    "#CCE1F7",
+    "#F7F1CC",
+    "#DEE2FE",
+    "#F1CAD4",
+    "#FDE6B7",
+    "#C6D190",
+    "#E5D7E7",
+    "#C8E8E1",
+    "#FEDD7C",
+    "#89B4F0",
+    "#F7AE69",
+    "#FFA024",
+    "#F7ED5E",
+    "#BDBFF9",
+    "#D84554",
+    "#FFFF99",
+    "#FB9A99",
+    "#FDBF6F",
+    "#CAB2D6",
+    "#CBC5F7",
+    "#8DD3C7",
+    "#FB8072",
+    "#FFED6F",
+    "#FDB462",
+    "#B3DE69",
+    "#FCCDE5",
+    "#C9DB75",
+    "#DDB0F1",
+    "#B497E7",
+    "#FF6767",
+    "#BCE266",
+    "#AA9CCD",
+    "#ACCCEB",
+    "#FFBF66",
+    "#BDBBD3",
+    "#D7D5EC",
+    "#BCA2C9",
+    "#D698C2",
+    "#89A6D4",
+    "#F6D9CB",
+    "#A9CDDF",
+    "#1A7AB6",
+    "#B5E287",
+    "#A7D1E9",
+    "#F9C8C8",
+    "#E5C8F9",
+    "#CC33CC",
+    "#7D91C7",
+    "#303FD0",
+    "#F21D25",
+    "#FFF000",
+    "#BBBBBB",
+    "#7ACFF2",
+    "#EB597A",
+    "#FAD1CF",
+    "#A187BD",
+    "#FFC0D1",
+    "#FBDCD7",
+    "#9FC5E9"
+  ],
+  "palettes": [
+    {
+      "name": "6-1",
+      "colors": [
+        {
+          "color": "#FDE5DA",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#CDDD92",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#7D9DE8",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FBF8B1",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#C8D7EB",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FFC7DF",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "150-7",
+      "colors": [
+        {
+          "color": "#FDE5DA",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#89B4F0",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#D0B7E1",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#D1EC79",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FFC7DF",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#C8D7EB",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FEDD7C",
+          "end": "#B6BEDA",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "colors": [
+        {
+          "color": "#CAB2E2",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#F2CAD3",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FDE7B8",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "3-1",
+      "colors": [
+        {
+          "color": "#E1D6E6",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#D7E495",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#A6D0E6",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "3-2",
+      "colors": [
+        {
+          "color": "#FDE5DA",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#CDDD92",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#7D9DE8",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "19 色",
+      "colors": [
+        {
+          "color": "#FFC7DF",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#B592F7",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FB5846",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#F8F48C",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#C8D7EB",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#5E76AF",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#A475CC",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#C75C5C",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#5575AF",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#A7CE75",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#738748",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#F3B9A9",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#9FC5E9",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FFE59A",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FFC0D1",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#65A9BE",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#F8E2D5",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#C7EEF5",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#CAB2E2",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "4 色",
+      "colors": [
+        {
+          "color": "#999DCB",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#C9DBE9",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#C6D18D",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#E2D7E7",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "7 色",
+      "colors": [
+        {
+          "color": "#F7F3A1",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#65B494",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#EE666B",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#BFD4EA",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#F7AE69",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#967EB5",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#F3C4CA",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "5 色",
+      "colors": [
+        {
+          "color": "#D84554",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FFA024",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#9C9FF2",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#F2E74A",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#29936D",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "4 色",
+      "colors": [
+        {
+          "color": "#FDBF6F",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FB9A99",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#98C4F9",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#B8A3E1",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "8 色",
+      "colors": [
+        {
+          "color": "#8DD3C7",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#C8E2FE",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#CBC5F7",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FB8072",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FFED6F",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FDB462",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#B3DE69",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FCCDE5",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "9 色",
+      "colors": [
+        {
+          "color": "#FD88B2",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#DDB0F1",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FDBF6F",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FCCDE5",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#C8E2FE",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#9EB9F2",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FEDD7C",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FDE5DA",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#B3DE69",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    },
+    {
+      "name": "5 色",
+      "colors": [
+        {
+          "color": "#FF6767",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#BCE266",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#AA9CCD",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#ACCCEB",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        },
+        {
+          "color": "#FFBF66",
+          "end": "#FFFFFF",
+          "mode": "solid",
+          "direction": "radial",
+          "degree": 100,
+          "midColor": "#FFF0D5",
+          "midPosition": 52
+        }
+      ]
+    }
+  ]
+}
